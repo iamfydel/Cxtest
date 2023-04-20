@@ -1,0 +1,1 @@
+self.__NEXT_FONT_MANIFEST={pages:{"/case-study":[]},app:{},appUsingSizeAdjust:!1,pagesUsingSizeAdjust:!1};
